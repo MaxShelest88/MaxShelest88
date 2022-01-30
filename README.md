@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Makism Shelest
+- 👋 Hi, I’m Maksim Shelest
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning Java script
